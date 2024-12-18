@@ -13,3 +13,9 @@ VR Junaverkko WiFi known traffic rules
 
 | SSID | Date | Protocol | Port | Description |
 | -- | -- | -- | -- | -- |
+
+## License
+
+CC-BY-SA
+
+Please contribute! Open a PR!
