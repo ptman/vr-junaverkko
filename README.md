@@ -1,5 +1,5 @@
-# vr-junaverkko
-VR Junaverkko WiFi known traffic 
+# VR Junaverkko
+VR Junaverkko WiFi known traffic rules
 
 ## Allowed
 
